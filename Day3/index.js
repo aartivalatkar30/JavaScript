@@ -16,7 +16,7 @@ console.log("Function::"+Greet());
       console.log(number);
     }
   }
-  console.log("---------let-------------");
+  console.log("-----------let--------------");
 
   let firstno=50;
   {
@@ -37,7 +37,7 @@ console.log("Function::"+Greet());
 }
 console.log(thirdno)
 
-console.log("---------hoisting-------")
+console.log("---------hoisting----------")
 
 numeric = 10;
 console.log(""+numeric);
