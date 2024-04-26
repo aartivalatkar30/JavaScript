@@ -11,6 +11,7 @@ function CheckNumber() {
       alert(`Number ${number} is Odd.`);
     }
 
+    if(age )
    
 
   }
