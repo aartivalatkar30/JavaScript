@@ -86,7 +86,7 @@ console.log(employee[employee.length-1]);
 
 
 
-console.log("<<<<<<<<<<// Q. Print numbers from 1 to 100, by using for loop.>>>>>>>>>>>>>");
+console.log("<<<<<<<<<<Print numbers from 1 to 100, by using for loop.>>>>>>>>>>>>>");
 
 for(var i = 1;i<=100;i++){
 
@@ -94,7 +94,7 @@ console.log(i)
 }
 
 
-console.log("<<<<<<<<<Q Print number from 10 to 60 with gap of 4;>>>>>>>>>>>>>");
+console.log("<<<<<<<<<Print number from 10 to 60 with gap of 4;>>>>>>>>>>>>>");
 
 
 for(var i=10;i<=60;i+=4){
